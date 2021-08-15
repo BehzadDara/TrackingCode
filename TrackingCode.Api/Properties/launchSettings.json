@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "TrackingCode.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "launchUrl": "api-docs",
+      "applicationUrl": "http://localhost:5029;https://localhost:5030",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

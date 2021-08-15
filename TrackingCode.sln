@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingCode.Api", "TrackingCode.Api\TrackingCode.Api.csproj", "{D62266EC-412E-4A08-8C70-B3EC0F233FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingCode.Application", "TrackingCode.Application\TrackingCode.Application.csproj", "{F224CA62-3C7B-4974-A7DC-E4569AEE9304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingCode.Domain", "TrackingCode.Domain\TrackingCode.Domain.csproj", "{04A50AF2-071E-4163-82C1-23417F64E4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingCode.Infrastructure", "TrackingCode.Infrastructure\TrackingCode.Infrastructure.csproj", "{02FDAD03-F428-44CD-B0C7-1183EE50E705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62266EC-412E-4A08-8C70-B3EC0F233FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62266EC-412E-4A08-8C70-B3EC0F233FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62266EC-412E-4A08-8C70-B3EC0F233FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62266EC-412E-4A08-8C70-B3EC0F233FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F224CA62-3C7B-4974-A7DC-E4569AEE9304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F224CA62-3C7B-4974-A7DC-E4569AEE9304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F224CA62-3C7B-4974-A7DC-E4569AEE9304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F224CA62-3C7B-4974-A7DC-E4569AEE9304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A50AF2-071E-4163-82C1-23417F64E4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A50AF2-071E-4163-82C1-23417F64E4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A50AF2-071E-4163-82C1-23417F64E4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A50AF2-071E-4163-82C1-23417F64E4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FDAD03-F428-44CD-B0C7-1183EE50E705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FDAD03-F428-44CD-B0C7-1183EE50E705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FDAD03-F428-44CD-B0C7-1183EE50E705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FDAD03-F428-44CD-B0C7-1183EE50E705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

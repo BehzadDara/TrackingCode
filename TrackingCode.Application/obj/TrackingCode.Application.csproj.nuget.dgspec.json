@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Application\\TrackingCode.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Application\\TrackingCode.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Application\\TrackingCode.Application.csproj",
+        "projectName": "TrackingCode.Application",
+        "projectPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Application\\TrackingCode.Application.csproj",
+        "packagesPath": "C:\\Users\\b.dara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\b.dara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://myget.org/F/graphql-dotnet/api/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\TrackingCode.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\TrackingCode.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Humanizer.Core.fa": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\TrackingCode.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\TrackingCode.Domain.csproj",
+        "projectName": "TrackingCode.Domain",
+        "projectPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\TrackingCode.Domain.csproj",
+        "packagesPath": "C:\\Users\\b.dara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\b.dara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://myget.org/F/graphql-dotnet/api/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2021.1.0-eap01, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\TrackingCode.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\TrackingCode.Infrastructure.csproj",
+        "projectName": "TrackingCode.Infrastructure",
+        "projectPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\TrackingCode.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\b.dara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\b.dara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://myget.org/F/graphql-dotnet/api/v3/index.json": {},
+          "https://nuget.sarmadins.ir/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\TrackingCode.Domain.csproj": {
+                "projectPath": "C:\\Users\\b.dara\\Desktop\\TrackingCode\\TrackingCode.Domain\\TrackingCode.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

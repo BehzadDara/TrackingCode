@@ -1,0 +1,14 @@
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Application.deps.json
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Application.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Application.pdb
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Domain.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Infrastructure.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Infrastructure.pdb
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\bin\Debug\netstandard2.1\TrackingCode.Domain.pdb
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.csprojAssemblyReference.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.AssemblyInfoInputs.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.AssemblyInfo.cs
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.csproj.CoreCompileInputs.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.csproj.CopyComplete
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Application\obj\Debug\netstandard2.1\TrackingCode.Application.pdb

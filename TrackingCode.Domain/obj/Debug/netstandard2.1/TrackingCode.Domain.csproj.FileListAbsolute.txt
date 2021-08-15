@@ -1,0 +1,9 @@
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\bin\Debug\netstandard2.1\TrackingCode.Domain.deps.json
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\bin\Debug\netstandard2.1\TrackingCode.Domain.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\bin\Debug\netstandard2.1\TrackingCode.Domain.pdb
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.csprojAssemblyReference.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.AssemblyInfoInputs.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.AssemblyInfo.cs
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.csproj.CoreCompileInputs.cache
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.dll
+C:\Users\b.dara\Desktop\TrackingCode\TrackingCode.Domain\obj\Debug\netstandard2.1\TrackingCode.Domain.pdb
